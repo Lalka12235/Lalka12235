@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor
 ============================================================================================================================
-https://github.com/user-attachments/assets/cc136824-769d-4991-986d-b01609b8d4b
-
 *   ✉️  You can contact me at [niceace12235@gmail.com](mailto:niceace12235@gmail.com)
 *   🤝  I'm open to collaborating on any project
   
