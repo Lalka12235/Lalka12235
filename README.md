@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor
 ============================================================================================================================
 
+- ⚡ I am a Python Backend Developer
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -22,6 +24,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
+### Connect with me
+- <a href="https://t.me/oLiLExEo" >Telegram
+- <a href="https://www.linkedin.com/in/lalka12235/">LinkedIn
 
+# Github Stats
 ![Profile views counter](https://komarev.com/ghpvc/?username=Lalka12235&&style=flat-square)  
