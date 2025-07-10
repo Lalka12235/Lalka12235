@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor
-============================================================================================================================
+# About me
+I am a Python backend developer. I create and design applications for REST API. Here you will find my projects demonstrating skills in Python, asynchronous frameworks and working with databases. In my free time I also explore C++ development. I am constantly learning and improving my skills through practice.
 
-- I'm a Python Backend Developer
+# I recommend my fast-api template - <a href="https://github.com/Lalka12235/fastapi_template">template
 
 # 💻 Tech Stack:
 <div align="left">
