@@ -25,9 +25,5 @@ I am a Python backend developer. I create and design applications for REST API. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-### Connect with me
-- <a href="https://t.me/oLiLExEo" >Telegram
-- <a href="https://www.linkedin.com/in/lalka12235/">LinkedIn
-
 # Github Stats
 ![Profile views counter](https://komarev.com/ghpvc/?username=Lalka12235&&style=flat-square)  
