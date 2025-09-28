@@ -1,6 +1,9 @@
 # About me
 I am a Python backend developer. I create and design applications for REST API. Here you will find my projects demonstrating skills in Python, asynchronous frameworks and working with databases. In my free time I also explore C++ development. I am constantly learning and improving my skills through practice.
 
+# I recommend my fast-api template
+- <a href="https://github.com/Lalka12235/fastapi_template">template
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
