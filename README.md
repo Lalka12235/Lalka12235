@@ -1,5 +1,5 @@
 # About me
-I am a Python backend developer. I create and design applications for REST API. Here you will find my projects demonstrating skills in Python, asynchronous frameworks and working with databases. In my free time I also explore C++ development. I am constantly learning and improving my skills through practice.
+I am a Python backend developer. I create and design applications for REST API. Here you will find my projects demonstrating skills in Python, asynchronous frameworks and working with databases. I am constantly learning and improving my skills through practice.
 
 # 💻 Tech Stack:
 <div align="left">
